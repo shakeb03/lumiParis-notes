@@ -14,6 +14,8 @@ updated: 2026-10-03
 - [[Brand Bible]] · [[Voice and Rules]] · [[Word of Mouth and Urgency]] · [[Quality Gate]] · [[Store Design Plan]]
 - [[Products Index]] · [[Asset Index]] · [[Imagery Prompts]]
 - [[Socials Hub]] · [[Content Calendar]]
+- [[Imagery Hub]] · [[Website Imagery]] · [[Product Imagery]] · [[Socials Imagery]]
+- [[Copywriting Hub]] · [[Brand Story and About]] · [[Product Names and Descriptions]] · [[Email Copy]]
 - [[Branvas]] · [[Support Playbook]] · [[Policies]] · [[Shopify Setup]] · [[Store Build Brief]]
 
 ## Open founder tasks

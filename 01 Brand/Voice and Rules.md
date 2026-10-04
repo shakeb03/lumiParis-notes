@@ -27,6 +27,10 @@ Calm, honest, plain. Never hustles, never overclaims. Short sentences. Say what 
 - Keep it non-political: no tariffs, trade war or country-versus-country lines. The number does the talking
 - No duties-included claim until the first Canadian order confirms Branvas's duties-prepaid delivery
 
+## Canada-based line
+- Canada storefront only: state that Lumi Paris is Canadian-based. Never on the US storefront, in US emails, or in US social copy
+- Does not change the name line: Paris is still not a place we are based
+
 ## Always
 - "Lumi Paris", exact spelling
 - Talk about wearing: daily, layered, lived in

@@ -5,6 +5,8 @@ updated: 2026-10-03
 ---
 # Imagery Prompts
 
+Shared base style and credit rules. Per-category visions, shot lists and checklists live in [[Imagery Hub]] (website, product, socials).
+
 All imagery is AI-generated. No real people, no photoshoots. Rules: [[Brand Bible]]. Budget: [[Budget]].
 
 ## Base style block (paste into every prompt)

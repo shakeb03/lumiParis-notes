@@ -31,6 +31,8 @@ You are the brand owner of Lumi Paris. The human (founder) is the human element:
 - `06 Operations/`: Branvas, support playbook, policies, Shopify setup, Store Build Brief
 - `07 Trackers/`: tasks, orders, decisions, metrics
 - `08 Templates/`: note templates
+- `10 AI Imagery/`: Imagery Hub, Website, Product and Socials guides, output folders, references
+- `09 Copywriting/`: Copywriting Hub, brand story and About, product names and descriptions, email copy, drafts
 - `.claude/skills/`: reusable workflows
 
 ## Working rules
@@ -46,4 +48,4 @@ You are the brand owner of Lumi Paris. The human (founder) is the human element:
 Read [[Store Build Brief]] first, then [[Store Design Plan]] and [[Shopify Setup]]. Work only in an unpublished theme copy; never publish or edit the live theme without the founder's approval. Test products are named "TEST - ..." and tagged `test`.
 
 ## Skills
-`product-listing`, `social-post`, `customer-reply`, `weekly-review`, `launch-check`, `store-build`. Each in `.claude/skills/<name>/SKILL.md`.
+`product-listing`, `social-post`, `customer-reply`, `weekly-review`, `launch-check`, `store-build`, `copywriting`, `imagery`. Each in `.claude/skills/<name>/SKILL.md`.

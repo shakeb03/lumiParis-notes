@@ -8,7 +8,13 @@ Newest first. Never relitigate without a reason.
 
 | Date | Decision | Why |
 |---|---|---|
-| 2026-10-04 | Storefront calls the cart "bag" everywhere (Add to bag, Your bag, sticky bar, cart page). Home hero text sits in a Lumi Cream panel over the media area | Founder preview feedback; brief says "Add to bag" and the hero message must show on first load |
+| 2026-10-04 | Hero is a muted looping video with the collarbone still as poster and fallback. Lips and chin may show (partial face, no eyes). No jewelry in the launch hero; a variant with a real catalog piece can follow once styles are chosen. Loop files are ping-pong, no audio, mobile 4:5 crop | Founder: face adds the human element. Hero shows light, not an invented product |
+| 2026-10-04 | New `10 AI Imagery/` space with three categories: Website (about 12 images, art-directed, one grade), Product (exact replicas from Branvas references, 5 to 6 shots, strictest checks, founder approves first product of each type), Socials (named styles Glow, Daily, Stack, Gift, The edit mapped to pillars, batched by theme). `imagery` skill added | Different jobs need different effort. Product accuracy protects against complaints and replacements |
+| 2026-10-04 | Pricing confirmed: $129.99 floor; cost x 1.75 above $75 USD, shipping outside the 75%; .99 rounding on every piece | Founder confirmation |
+| 2026-10-04 | Canada storefront states the business is Canadian-based; the US storefront never mentions it | Founder instruction. Needs market-aware copy in the theme |
+| 2026-10-04 | Themes "Lumi Paris — draft" and "Lumi Paris — custom" are previous versions: not needed, kept unpublished for style inspiration only | Founder |
+| 2026-10-04 | Order of operations: theme locked, then Branvas Growth plan; storefront functional, then Shopify Payments; business address last. Monogram on hold, blocks nothing | Founder |
+| 2026-10-04 | New `09 Copywriting/` directory and `copywriting` skill: one set of rules for brand story, About page, product names, descriptions and email. Product names are plain English, feature plus form, no French or Paris words | One voice across site and email; the check list stops origin, material and urgency claims before they publish |
 | 2026-10-04 | Store build theme: "Lumi Paris — build", duplicated from live Horizon 4.2.0, unpublished. Code lives in the LumiParis-new repo; brand layer is `lumi-` sections, blocks and `assets/lumi.css` | Store Build Brief method; keeps the live theme untouched |
 | 2026-10-04 | Fonts loaded from Google Fonts (Cormorant Garamond 500, Outfit 400/500) in theme code, overriding Horizon's font settings | Exact brand fonts; Shopify font library availability not verified. Revisit if page speed suffers |
 | 2026-10-04 | TEST products are active and published to Online Store only, behind the store password (brief said draft) | Draft products don't show in theme previews. All six tagged `test`; delete before the password comes off |
@@ -62,3 +68,7 @@ Newest first. Never relitigate without a reason.
 | 2026-10-03 | Supplier Branvas; domain thelumiparis.com | |
 | 2026-10-03 | Launch before Fri 9 Oct 2026; goal 50k orders by Christmas 2026 | |
 | 2026-10-03 | Address/PO box undecided: use placeholders | Pending |
+| 2026-10-04 | About page expanded from 4 short paragraphs to 5 short sections (Light first, Meant for ordinary days, For you and the people you love, Plain words kept promises, Say hello). Still no founder, origin, material or AI claims; approved name line used once, whole | Founder asked for a warmer, fuller About; draft awaits approval |
+| 2026-10-04 | About page is a personal letter to the reader (second person, collective "we", signed "Lumi Paris"). No shipping, returns or replacement policy in it. Proof points are four behaviors we control: plain descriptions, one honest price, real reviews only, the box | Founder asked for a letter and stronger proof than policy; supersedes the 2026-10-04 five-section About |
+| 2026-10-04 | About page is a story letter: the idea (jewelry worn, not saved), window light, small moments, "we're new". No proof-point list, no policies. Story uses universal scenes, not invented events about us | Founder said the proof-point list felt like trying too hard; wants genuine connection and a story. Supersedes the v3 letter |
+| 2026-10-04 | About page story letter v4 APPROVED by founder. Standing: About is a story letter with no policies or proof-point list | Founder approval |
