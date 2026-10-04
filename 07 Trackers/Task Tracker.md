@@ -18,7 +18,7 @@ Tags: #founder (needs the human) · #store · #social · #content · #ops · #br
 - [ ] Replace the three `[FACT FROM BRANVAS DATA]` blocks on the home page once launch styles are chosen (hidden on the storefront until then) #store #content
 - [ ] Canada storefront only: add a "Canadian-based" line (footer or About, market-aware). US storefront must never mention it #store #content
 - [ ] Ask Branvas: can we use your product photos as image references, clean or transparent cutouts, exact dimensions per style, and a photo of the packaging ([[Imagery Hub]]) #ops
-- [ ] Hero video made (`10 AI Imagery/website/`, desktop and mobile loops, poster). Next: put it in the theme hero (muted, autoplay, loop, playsinline, poster still, still fallback for reduced motion), preview on a phone, check page speed #store #content #founder
+- [ ] Hero video is in the "Lumi Paris — build" theme (muted loop, 4:5 file on phones, poster still, pause button, still only for reduced motion). Founder: preview on a phone and check page speed #store #founder
 - [ ] Add hero and category tile images once AI imagery is approved ([[Imagery Prompts]]) #content #founder
 - [ ] Buy Branvas Growth plan once the theme is locked in, connect Shopify, share unit costs #founder #ops
 - [ ] Activate Shopify Payments once the storefront is themed and functional #founder #store
@@ -43,6 +43,7 @@ Tags: #founder (needs the human) · #store · #social · #content · #ops · #br
 - Monogram (U-to-M) avatar: to discuss later; nothing depends on it #brand #founder
 
 ## Done
+- [x] 2026-10-04: About page styled as a letter (template `page.about`, section `lumi-about`) and hero video added to the build theme; media uploaded to Shopify Files
 - [x] 2026-10-04: Founder confirmed: pricing ($129.99 floor, cost x 1.75 above $75, shipping outside the 75%, .99 rounding on every piece), business based in Canada (shown on the Canada storefront only), hello@ mailbox works, support bot already set up
 - [x] 2026-10-04: About story letter v4 written and approved by founder; saved in Brand Story and About
 - [x] 2026-10-04: Built "Lumi Paris — build" theme (unpublished, from Horizon 4.2.0): brand tokens and fonts, home sections, Canada bar and price label, product reassurance and accordions, footer, password page. Code in the LumiParis-new repo
