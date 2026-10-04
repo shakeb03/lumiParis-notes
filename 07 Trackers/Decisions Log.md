@@ -8,6 +8,8 @@ Newest first. Never relitigate without a reason.
 
 | Date | Decision | Why |
 |---|---|---|
+| 2026-10-04 | Hero layout with video: cream text panel beside the video on desktop and below it on phones, never over the footage; small pause button on the video | The clip has no empty side for text; brief says text sits on a Lumi Cream panel, not over the image |
+| 2026-10-04 | Storefront calls the cart "bag" everywhere (Add to bag, Your bag, sticky bar, cart page) | Founder preview feedback; brief says "Add to bag". Re-logged: row was missing after the 2026-10-04 notes upload |
 | 2026-10-04 | Hero is a muted looping video with the collarbone still as poster and fallback. Lips and chin may show (partial face, no eyes). No jewelry in the launch hero; a variant with a real catalog piece can follow once styles are chosen. Loop files are ping-pong, no audio, mobile 4:5 crop | Founder: face adds the human element. Hero shows light, not an invented product |
 | 2026-10-04 | New `10 AI Imagery/` space with three categories: Website (about 12 images, art-directed, one grade), Product (exact replicas from Branvas references, 5 to 6 shots, strictest checks, founder approves first product of each type), Socials (named styles Glow, Daily, Stack, Gift, The edit mapped to pillars, batched by theme). `imagery` skill added | Different jobs need different effort. Product accuracy protects against complaints and replacements |
 | 2026-10-04 | Pricing confirmed: $129.99 floor; cost x 1.75 above $75 USD, shipping outside the 75%; .99 rounding on every piece | Founder confirmation |
