@@ -1,6 +1,6 @@
 ---
 type: log
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 # Decisions Log
 
@@ -8,6 +8,12 @@ Newest first. Never relitigate without a reason.
 
 | Date | Decision | Why |
 |---|---|---|
+| 2026-10-04 | Store build theme: "Lumi Paris — build", duplicated from live Horizon 4.2.0, unpublished. Code lives in the LumiParis-new repo; brand layer is `lumi-` sections, blocks and `assets/lumi.css` | Store Build Brief method; keeps the live theme untouched |
+| 2026-10-04 | Fonts loaded from Google Fonts (Cormorant Garamond 500, Outfit 400/500) in theme code, overriding Horizon's font settings | Exact brand fonts; Shopify font library availability not verified. Revisit if page speed suffers |
+| 2026-10-04 | TEST products are active and published to Online Store only, behind the store password (brief said draft) | Draft products don't show in theme previews. All six tagged `test`; delete before the password comes off |
+| 2026-10-04 | New pages under new handles (about, questions, care, shipping-and-delivery, returns) with vault-verified copy only. Existing pages (our-story, faq, shipping, materials-care, size-guide, gifting) left untouched | Existing pages contain claims the vault doesn't support (UK/EU shipping, "a person answers", unconfirmed materials, "Gifts under $100"). Founder decides whether to delete them |
+| 2026-10-04 | Build menus `lumi-build-main`, `lumi-build-help`, `lumi-build-brand` created; older `lumi-*` menus left untouched | Same reason: older menus link to pages and collections that conflict with the vault |
+| 2026-10-04 | Product facts on the theme come from metafields `custom.material`, `custom.details`, `custom.size_guide`, filled from Branvas data only | No material claims in theme code |
 | 2026-10-03 | Theme: a free Shopify theme, restyled hard to the brand (fonts, palette, spacing, section order, custom sections). Paid theme only if it falls short after the first orders | Founder choice; budget |
 | 2026-10-03 | Change-of-mind details confirmed: unworn and in the original box, customer pays return shipping, store credit never expires, no cash refund, returns to our PO box | Founder choice |
 | 2026-10-03 | Damaged, defective or incorrect items: free replacement, handled by Branvas and shipped directly to the customer. If a return is needed, the customer uses the address Branvas issues, which carries no Branvas details. Claim window 10 days from delivery (Branvas confirms 10 on its current page) | Founder choice; matches Branvas policy |

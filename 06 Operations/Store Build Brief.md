@@ -1,7 +1,7 @@
 ---
 type: ops
 status: ready-for-build
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 # Store Build Brief
 
@@ -18,6 +18,7 @@ Everything a fresh session needs to build the Lumi Paris store. Read `CLAUDE.md`
 ## Environment
 - Store: Lumi Paris, thelumiparis.com, base currency CAD, business country Canada, store email hello@thelumiparis.com
 - Themes (2026-10-03): Horizon (live, unmodified), "Lumi Paris — draft" and "Lumi Paris — custom" (unpublished, origin unknown, do not modify or delete until the founder says)
+- Build theme (2026-10-04): "Lumi Paris — build" (unpublished, `gid://shopify/OnlineStoreTheme/188769927395`), duplicated from Horizon 4.2.0. Source of truth for its code: the LumiParis-new repo (README lists every file and the store data it expects)
 - Needs a Shopify connector in the session with theme, product, content, navigation and Markets access. If it is missing, write the code into `04 Assets/build/` and tell the founder where to paste it
 - Cannot be done by Claude: payments, tax, currency, domain, policy text, installing the Branvas app ([[Shopify Setup]])
 - Method: duplicate Horizon into a new unpublished theme named "Lumi Paris — build". Edit there. Preview by theme preview link on a phone

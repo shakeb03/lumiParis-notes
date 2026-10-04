@@ -1,6 +1,6 @@
 ---
 type: tracker
-updated: 2026-10-03
+updated: 2026-10-04
 ---
 # Task Tracker
 
@@ -10,8 +10,13 @@ Tags: #founder (needs the human) · #store · #social · #content · #ops · #br
 - [ ] Confirm the business is based in Canada (Shopify store is set to Canada, CAD base currency) #founder #store
 - [ ] Tax: unregistered for now, no tax charged, prices include tax. Ask an accountant when GST/HST registration is due (small supplier threshold is about CA$30,000 in revenue) and about US sales tax #founder #ops
 - [ ] Buy business address, PO box and phone number #founder #ops
-- [ ] Review the [[Store Design Plan]]; add fake products named "TEST - ..." tagged `test` #founder #store
-- [ ] Shortlist 2 to 3 free themes, preview with test products on a phone, pick the quietest base, then restyle ([[Store Design Plan]]) #store #founder
+- [ ] Preview the "Lumi Paris — build" theme on a phone (Online Store > Themes > Lumi Paris — build > Preview) and judge the look against the [[Store Build Brief]] acceptance checklist #founder #store
+- [ ] Decide what to do with the older pages (our-story, faq, shipping, materials-care, size-guide, gifting), older `lumi-*` menus, collections "Gifts under $100", "Rings & Bracelets", the three Stacks, and themes "Lumi Paris — draft" / "Lumi Paris — custom". They hold claims the vault doesn't support ([[Decisions Log]] 2026-10-04) #founder #store
+- [ ] Delete all six TEST products (tag `test`) before the store password comes off #store
+- [ ] Create product metafield definitions `custom.material` (single line), `custom.details` (rich text), `custom.size_guide` (rich text) before the catalog import #store
+- [ ] Set up filters (category, material) in Shopify Search & Discovery for collection pages #store
+- [ ] Replace the three `[FACT FROM BRANVAS DATA]` blocks on the home page once launch styles are chosen (hidden on the storefront until then) #store #content
+- [ ] Add hero and category tile images once AI imagery is approved ([[Imagery Prompts]]) #content #founder
 - [ ] Decide business address / PO box / ship-from location (blocks policies and payments) #founder #ops
 - [ ] Buy Branvas Growth plan when the build starts, connect Shopify, share unit costs #founder #ops
 - [ ] Activate Shopify Payments #founder #store
@@ -37,6 +42,8 @@ Tags: #founder (needs the human) · #store · #social · #content · #ops · #br
 - [ ] Email flows (welcome, abandoned cart)
 
 ## Done
+- [x] 2026-10-04: Built "Lumi Paris — build" theme (unpublished, from Horizon 4.2.0): brand tokens and fonts, home sections, Canada bar and price label, product reassurance and accordions, footer, password page. Code in the LumiParis-new repo
+- [x] 2026-10-04: Six TEST products with placeholder images, pages About, Questions, Care, Shipping and delivery, Returns, an Archive collection and three build menus created in Shopify
 - [x] Logo
 - [x] Handles chosen
 - [x] Brand identity locked 2026-10-03: name rules, palette, voice, tagline, imagery rules, promises ([[Brand Bible]])
