@@ -24,6 +24,7 @@ Tags: #founder (needs the human) · #store · #social · #content · #ops · #br
 - [ ] Choose launch styles (blocked on Branvas plan): I screen with [[Quality Gate]], you approve each by look #store #founder
 - [ ] Decide the referral mechanic and credit amount #founder #social
 - [ ] Set up early access list and Notify me #store
+- [ ] US prices are not the same number yet: the US market is active in USD with no fixed prices, so Shopify converts (a CA$129.99 test product shows to US visitors as US$94.00). Needs a US price list with fixed prices equal to the CAD number before launch; the Shipping and delivery page already promises "the same number" #store #founder
 - [ ] Set up Shopify Markets: USD for US, CAD for Canada with the same number, "Canada price" label and Canada-only top bar (check the theme can show it by market); complimentary shipping #store
 - [ ] Set up email support bot and website chatbot using [[Support Playbook]] #founder #ops
 - [ ] Confirm hello@thelumiparis.com mailbox works #founder #ops
@@ -42,6 +43,7 @@ Tags: #founder (needs the human) · #store · #social · #content · #ops · #br
 - [ ] Email flows (welcome, abandoned cart)
 
 ## Done
+- [x] 2026-10-04: Preview feedback applied to "Lumi Paris — build": hero above the fold, Add to bag everywhere, business-days delivery line, labeled sticky Add to bag on phones, cart says complimentary shipping with wallets first; Shipping and delivery page notes first orders take 3 to 5 business days longer
 - [x] 2026-10-04: Built "Lumi Paris — build" theme (unpublished, from Horizon 4.2.0): brand tokens and fonts, home sections, Canada bar and price label, product reassurance and accordions, footer, password page. Code in the LumiParis-new repo
 - [x] 2026-10-04: Six TEST products with placeholder images, pages About, Questions, Care, Shipping and delivery, Returns, an Archive collection and three build menus created in Shopify
 - [x] Logo

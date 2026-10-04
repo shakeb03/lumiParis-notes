@@ -8,6 +8,7 @@ Newest first. Never relitigate without a reason.
 
 | Date | Decision | Why |
 |---|---|---|
+| 2026-10-04 | Storefront calls the cart "bag" everywhere (Add to bag, Your bag, sticky bar, cart page). Home hero text sits in a Lumi Cream panel over the media area | Founder preview feedback; brief says "Add to bag" and the hero message must show on first load |
 | 2026-10-04 | Store build theme: "Lumi Paris — build", duplicated from live Horizon 4.2.0, unpublished. Code lives in the LumiParis-new repo; brand layer is `lumi-` sections, blocks and `assets/lumi.css` | Store Build Brief method; keeps the live theme untouched |
 | 2026-10-04 | Fonts loaded from Google Fonts (Cormorant Garamond 500, Outfit 400/500) in theme code, overriding Horizon's font settings | Exact brand fonts; Shopify font library availability not verified. Revisit if page speed suffers |
 | 2026-10-04 | TEST products are active and published to Online Store only, behind the store password (brief said draft) | Draft products don't show in theme previews. All six tagged `test`; delete before the password comes off |
